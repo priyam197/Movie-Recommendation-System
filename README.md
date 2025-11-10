@@ -2,6 +2,10 @@
 
 # 🎬 MovieNest – Personalized Movie Recommendation System
 
+## 🌐 Live Project  
+🔗 [Click Here to Explore MovieNest](https://priyam-movie-recommendation-system.streamlit.app/)  
+*(Opens the live deployed version built with Streamlit)*
+
 ## 📌 Overview  
 **MovieNest** is a content-based movie recommendation system that helps users discover movies based on **genres, actors, directors, and movie metadata**.  
 It also displays **posters, IMDb ratings, plots, and allows users to rate movies**.  
